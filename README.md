@@ -1,0 +1,2 @@
+# Python_CopyTxt
+一个简单的python脚本可以复制文件中的内容
